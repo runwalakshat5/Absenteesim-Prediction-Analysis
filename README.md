@@ -1,0 +1,2 @@
+# Absenteesim-Prediction-Analysis
+Created a dashboard using Tableau to analyze the various factors resulting to absenteeism of an employee for more than 3 hours during work. The data was preprocessed and cleaned using Python and SQL with help of pymysql library and MySQL Work Bench, then a logistic regression model was trained to predict the probability. Finally, Tableau was used to visualize the factors versus probability.
